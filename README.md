@@ -3,10 +3,6 @@
 # Ibrahim Aryan Faridzi
 
 <p>
-  <b>Computer Engineering • Networking • IoT • AI</b>
-</p>
-
-<p>
   <i>"Do what you can't"</i>
 </p>
 
