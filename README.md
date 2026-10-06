@@ -61,6 +61,16 @@ I like building projects, trying new things, and exploring how different technol
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimaryan/ibrahimaryan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimaryan/ibrahimaryan/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ibrahimaryan/ibrahimaryan/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 <div align="center">
 
 ```text
@@ -197,16 +207,3 @@ UjY\/ff/1?<;:|dkao#oao*MWM#M#m\)|tYzwcvZmJQpczL0JUamLr|CxJZ/p\vJcMWW&WWW*dqqwwZO
 !Uwqppddkoooohhkkhh*#******#*khhoao*#*oabpwwwqqpddqqwmmwwqqdbbbbha*o****hZOqkhoabmwq*&&&WMMp0OOQ0QQLQ00OOOZmwwpppppbkdbkkbqwqdkha*#M#apaW**oooaookOj{1ca*#**o****o**ooak0u
 ```
 </div>
-
-<!---
-- 👋 Hi, I’m @ibrahimaryan
-- 👀 I’m interested in you
-- 🌱 I’m currently learning some syntax
-- 💞️ I’m looking to collaborate on building website
-- 📫 How to reach me, just call my name 3 times
---->
-
-<!---
-ibrahimaryan/ibrahimaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
